@@ -8,6 +8,10 @@
 
 HP Omen PC / Windows 10 Home Edition / I5 Intel Processor 7th Generation/ 250GB SSD / 8GB RAM/ Nvidia 1050GTX.
 
+[Priority]
+
+Medium.
+
 [Reproduction rate]
 
 5/5.
